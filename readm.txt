@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8619-5571
+
+ Directory of C:\Users\rui.dias\Desktop\test
+
+23/04/2020  16:30    <DIR>          .
+23/04/2020  16:30    <DIR>          ..
+23/04/2020  16:29               676 Hello.class
+23/04/2020  16:10               148 Hello.java
+23/04/2020  16:30                 0 readm.txt
+               3 File(s)            824 bytes
+               2 Dir(s)  114,114,752,512 bytes free
